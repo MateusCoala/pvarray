@@ -1,6 +1,6 @@
-site_name: predictease
+site_name: pvarray
 repo_url:  https://github.com/MateusCoala
-repo_name: MateusCoala/predictease
+repo_name: MateusCoala/pvarray
 edit_uri:  tree/master/docs
 
 theme:
